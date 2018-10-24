@@ -5,12 +5,17 @@ contributor:
     agent_name: Bullock, Thomas K.
     gutenberg_agent_id: '49757'
     url: http://www.gutenberg.org/2009/agents/49757
+covers:
+- cover_type: archival
+  image_path: 58066-h/images/cover.jpg
 creator:
   author:
     agent_name: Ford, Thomas K.
     gutenberg_agent_id: '49248'
     url: http://www.gutenberg.org/2009/agents/49248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58066#The-Silversmith-in-Eighteenth-Century-Williamsburg-An-Account-of-his-Life-Times-of-his-Craft
 gutenberg_issued: '2018-10-10'
 gutenberg_type: Text
 identifiers:
